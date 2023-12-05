@@ -1,5 +1,9 @@
 // from Geeks for Geeks React/php walkthrough
 
+// Note to you from the future, this kicks out a
+// "No 'Access-Control-Allow-Origin' header is present on the requested resource"
+// error. So I think I'mma have to go a different way...
+
 import { useState } from "react";
 import $ from "jquery";
 import "./App.css";
